@@ -1,16 +1,10 @@
 {
-    "projects" : [
-        {
-            "id" : 1,
-            "title": "Create Vue project",
-            "details" : "Project Planner Type",
-            "complete" : false
-        },
-        {
-            "id" : 2,
-            "title": "Create React project",
-            "details" : "Project Planner Type",
-            "complete" : true
-        }
-    ]
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create Vue project",
+      "details": "Project Planner Type",
+      "complete": false
+    }
+  ]
 }
