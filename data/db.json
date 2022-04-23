@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Create Laravel project",
       "details": "Project Planner Type",
-      "complete": false
+      "complete": true
     }
   ]
 }
