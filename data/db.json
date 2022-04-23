@@ -4,13 +4,31 @@
       "id": 1,
       "title": "Create Vue project boom sdsdsds",
       "details": "Project Planner Type sdsds",
-      "complete": false
+      "complete": true
     },
     {
       "id": 2,
       "title": "Create React project",
       "details": "Project Planner Type",
       "complete": false
+    },
+    {
+      "title": "fdfd",
+      "details": "dffdfd",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "fdfdfdf",
+      "details": "dfdfdf",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "fdfdf",
+      "details": "dfdfdfdfdfd",
+      "complete": false,
+      "id": 5
     }
   ]
 }
