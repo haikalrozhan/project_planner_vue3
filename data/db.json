@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create Vue project",
+      "title": "Create Vue project boom",
       "details": "Project Planner Type",
       "complete": false
     },
@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "title": "Create Laravel project",
+      "title": "Create Laravel project boom",
       "details": "Project Planner Type",
       "complete": true
     },
